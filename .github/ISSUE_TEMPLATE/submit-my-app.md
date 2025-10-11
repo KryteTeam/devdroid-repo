@@ -7,8 +7,8 @@ assignees: inteltoasters
 
 ---
 
-**Description**
-A clear and concise description of what your app is about.
+**Short Description**
+A clear and concise short description of what your app is about.
 
 **License**
 What license is your app licensed under.
@@ -18,3 +18,6 @@ Example: https://chirpecho.fun/api/v1/
 
 **Screenshots**
 Add your apps screenshots (optional)
+
+**README**
+Your app's long description, attach it as a file
