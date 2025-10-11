@@ -2,8 +2,8 @@
 name: Submit my app
 about: Suggest an idea for this project
 title: "[APP]"
-labels: ''
-assignees: ''
+labels: submission
+assignees: inteltoasters
 
 ---
 
