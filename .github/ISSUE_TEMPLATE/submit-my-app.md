@@ -1,6 +1,6 @@
 ---
 name: Submit my app
-about: Suggest an idea for this project
+about: Submit your app
 title: "[APP]"
 labels: submission
 assignees: inteltoasters
