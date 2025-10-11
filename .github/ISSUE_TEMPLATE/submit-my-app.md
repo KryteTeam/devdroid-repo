@@ -17,4 +17,4 @@ What license is your app licensed under.
 Example: https://chirpecho.fun/api/v1/
 
 **Screenshots**
-Add your apps screenshots
+Add your apps screenshots (optional)
