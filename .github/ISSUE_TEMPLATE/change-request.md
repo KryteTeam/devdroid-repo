@@ -3,7 +3,7 @@ name: Change Request
 about: Change your apps information.
 title: "[CHANGE]"
 labels: change
-assignees: paidlowered, inteltoasters
+assignees: inteltoasters, paidlowered
 
 ---
 
